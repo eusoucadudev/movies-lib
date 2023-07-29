@@ -1,2 +1,3 @@
 # movies-lib
-Um projeto de catalogo de filmes em inglês com react.
+
+Um projeto de catalogo de filmes com react.
